@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\TaxiAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|c:\\repos\\taxiapi\\taxiapi\\controllers\\yellowtripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|solutionrelative:taxiapi\\controllers\\yellowtripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|c:\\repos\\taxiapi\\taxiapi\\services\\yellowtripsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|solutionrelative:taxiapi\\services\\yellowtripsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|c:\\repos\\taxiapi\\taxiapi\\dto\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|solutionrelative:taxiapi\\dto\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterDTO.cs",
+              "DocumentMoniker": "C:\\repos\\TaxiAPI\\TaxiAPI\\DTO\\FilterDTO.cs",
+              "RelativeDocumentMoniker": "TaxiAPI\\DTO\\FilterDTO.cs",
+              "ToolTip": "C:\\repos\\TaxiAPI\\TaxiAPI\\DTO\\FilterDTO.cs",
+              "RelativeToolTip": "TaxiAPI\\DTO\\FilterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:01:39.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YellowTripsService.cs",
+              "DocumentMoniker": "C:\\repos\\TaxiAPI\\TaxiAPI\\Services\\YellowTripsService.cs",
+              "RelativeDocumentMoniker": "TaxiAPI\\Services\\YellowTripsService.cs",
+              "ToolTip": "C:\\repos\\TaxiAPI\\TaxiAPI\\Services\\YellowTripsService.cs",
+              "RelativeToolTip": "TaxiAPI\\Services\\YellowTripsService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:49:14.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YellowTripController.cs",
+              "DocumentMoniker": "C:\\repos\\TaxiAPI\\TaxiAPI\\Controllers\\YellowTripController.cs",
+              "RelativeDocumentMoniker": "TaxiAPI\\Controllers\\YellowTripController.cs",
+              "ToolTip": "C:\\repos\\TaxiAPI\\TaxiAPI\\Controllers\\YellowTripController.cs",
+              "RelativeToolTip": "TaxiAPI\\Controllers\\YellowTripController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAtwBwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:04:09.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
