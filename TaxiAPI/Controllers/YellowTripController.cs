@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TaxiAPI.DTO;
-using TaxiAPI.Entities;
 using TaxiAPI.Interfaces;
-using TaxiAPI.Services;
 
 namespace TaxiAPI.Controllers
 {

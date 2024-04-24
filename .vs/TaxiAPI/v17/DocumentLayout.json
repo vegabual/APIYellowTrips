@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\repos\\TaxiAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|c:\\repos\\taxiapi\\taxiapi\\controllers\\yellowtripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|solutionrelative:taxiapi\\controllers\\yellowtripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|c:\\repos\\taxiapi\\taxiapi\\enums\\paymenttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|solutionrelative:taxiapi\\enums\\paymenttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|c:\\repos\\taxiapi\\taxiapi\\enums\\vendorenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|solutionrelative:taxiapi\\enums\\vendorenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|c:\\repos\\taxiapi\\taxiapi\\entities\\yellowtrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|solutionrelative:taxiapi\\entities\\yellowtrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|c:\\repos\\taxiapi\\taxiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|solutionrelative:taxiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|c:\\repos\\taxiapi\\taxiapi\\services\\yellowtripsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|c:\\repos\\taxiapi\\taxiapi\\dto\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|solutionrelative:taxiapi\\dto\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|c:\\repos\\taxiapi\\taxiapi\\controllers\\yellowtripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E620F48-FA34-49D9-8D0C-95395B9DBEB9}|TaxiAPI\\TaxiAPI.csproj|solutionrelative:taxiapi\\controllers\\yellowtripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentTypeEnum.cs",
+              "DocumentMoniker": "C:\\repos\\TaxiAPI\\TaxiAPI\\Enums\\PaymentTypeEnum.cs",
+              "RelativeDocumentMoniker": "TaxiAPI\\Enums\\PaymentTypeEnum.cs",
+              "ToolTip": "C:\\repos\\TaxiAPI\\TaxiAPI\\Enums\\PaymentTypeEnum.cs",
+              "RelativeToolTip": "TaxiAPI\\Enums\\PaymentTypeEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:11:10.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendorEnum.cs",
+              "DocumentMoniker": "C:\\repos\\TaxiAPI\\TaxiAPI\\Enums\\VendorEnum.cs",
+              "RelativeDocumentMoniker": "TaxiAPI\\Enums\\VendorEnum.cs",
+              "ToolTip": "C:\\repos\\TaxiAPI\\TaxiAPI\\Enums\\VendorEnum.cs",
+              "RelativeToolTip": "TaxiAPI\\Enums\\VendorEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:59:12.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\TaxiAPI\\TaxiAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TaxiAPI\\Program.cs",
+              "ToolTip": "C:\\repos\\TaxiAPI\\TaxiAPI\\Program.cs",
+              "RelativeToolTip": "TaxiAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:30:13.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "YellowTrip.cs",
+              "DocumentMoniker": "C:\\repos\\TaxiAPI\\TaxiAPI\\Entities\\YellowTrip.cs",
+              "RelativeDocumentMoniker": "TaxiAPI\\Entities\\YellowTrip.cs",
+              "ToolTip": "C:\\repos\\TaxiAPI\\TaxiAPI\\Entities\\YellowTrip.cs",
+              "RelativeToolTip": "TaxiAPI\\Entities\\YellowTrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:29:49.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FilterDTO.cs",
               "DocumentMoniker": "C:\\repos\\TaxiAPI\\TaxiAPI\\DTO\\FilterDTO.cs",
               "RelativeDocumentMoniker": "TaxiAPI\\DTO\\FilterDTO.cs",
@@ -34,29 +102,31 @@
               "RelativeToolTip": "TaxiAPI\\DTO\\FilterDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T19:01:39.065Z"
+              "WhenOpened": "2024-04-21T19:01:39.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "YellowTripsService.cs",
               "DocumentMoniker": "C:\\repos\\TaxiAPI\\TaxiAPI\\Services\\YellowTripsService.cs",
               "RelativeDocumentMoniker": "TaxiAPI\\Services\\YellowTripsService.cs",
               "ToolTip": "C:\\repos\\TaxiAPI\\TaxiAPI\\Services\\YellowTripsService.cs",
               "RelativeToolTip": "TaxiAPI\\Services\\YellowTripsService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:49:14.726Z"
+              "WhenOpened": "2024-04-21T18:49:14.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "YellowTripController.cs",
               "DocumentMoniker": "C:\\repos\\TaxiAPI\\TaxiAPI\\Controllers\\YellowTripController.cs",
               "RelativeDocumentMoniker": "TaxiAPI\\Controllers\\YellowTripController.cs",
               "ToolTip": "C:\\repos\\TaxiAPI\\TaxiAPI\\Controllers\\YellowTripController.cs",
               "RelativeToolTip": "TaxiAPI\\Controllers\\YellowTripController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAtwBwAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T01:04:09.188Z",
               "EditorCaption": ""

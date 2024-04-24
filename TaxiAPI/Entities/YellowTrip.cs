@@ -1,5 +1,4 @@
-﻿using Microsoft.OpenApi.Extensions;
-using TaxiAPI.Enums;
+﻿using TaxiAPI.Enums;
 
 namespace TaxiAPI.Entities
 {

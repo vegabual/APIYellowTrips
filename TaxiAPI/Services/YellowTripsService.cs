@@ -1,8 +1,6 @@
 ﻿using TaxiAPI.DTO;
 using TaxiAPI.Entities;
 using TaxiAPI.Interfaces;
-using TaxiAPI.Repositories;
-using TaxiAPI.Utils;
 
 namespace TaxiAPI.Services
 {
@@ -12,7 +10,7 @@ namespace TaxiAPI.Services
 
         public YellowTripsService(IYellowTripsRepository yellowTripRepository)
         {
-            _yellowTripRepository = y;   
+            _yellowTripRepository = yellowTripRepository;   
         }
 
         public IList<YellowTrip> GetYellowTripsFiltered(int limit, int offset, FilterDTO filter)
